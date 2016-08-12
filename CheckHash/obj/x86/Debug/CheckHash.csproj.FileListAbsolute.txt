@@ -1,0 +1,5 @@
+E:\Dropbox\Dropbox\Collector Project\CheckHash\CheckHash\bin\Debug\CheckHash.exe
+E:\Dropbox\Dropbox\Collector Project\CheckHash\CheckHash\bin\Debug\CheckHash.pdb
+E:\Dropbox\Dropbox\Collector Project\CheckHash\CheckHash\obj\x86\Debug\CheckHash.exe
+E:\Dropbox\Dropbox\Collector Project\CheckHash\CheckHash\obj\x86\Debug\CheckHash.pdb
+E:\Dropbox\Dropbox\Collector Project\CheckHash\CheckHash\obj\x86\Debug\CheckHash.csprojResolveAssemblyReference.cache
