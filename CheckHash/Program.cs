@@ -80,6 +80,7 @@ namespace CheckHash
                         {
                             process.Kill();
                         }
+                        
                         FileInfo.Delete();
                         w.WriteLine(FileInfo.FullName + " : Deleted");
                     }
@@ -115,10 +116,10 @@ namespace CheckHash
                                     sMD5.Append(MD5Hash[i].ToString("X2").ToLower());
                                foreach(string line in lines)
                                 {
-                                    if (line.Equals(sMD5))
+                                    if (line.Equals(sMD5.ToString()))
                                     {
                                         Results.Add(FileInfo);
-                                        Console.WriteLine("Detected: %s", FileInfo);
+                                        Console.WriteLine("\nDetected: \n----->"+ FileInfo);
                                     }
                                 }
                             }
