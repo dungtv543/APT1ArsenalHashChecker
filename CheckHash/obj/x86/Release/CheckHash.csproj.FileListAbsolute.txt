@@ -1,0 +1,4 @@
+E:\Dropbox\Dropbox\Collector Project\CheckHash\APT1ArsenalHashChecker\CheckHash\bin\Release\CheckHash.exe
+E:\Dropbox\Dropbox\Collector Project\CheckHash\APT1ArsenalHashChecker\CheckHash\bin\Release\CheckHash.pdb
+E:\Dropbox\Dropbox\Collector Project\CheckHash\APT1ArsenalHashChecker\CheckHash\obj\x86\Release\CheckHash.exe
+E:\Dropbox\Dropbox\Collector Project\CheckHash\APT1ArsenalHashChecker\CheckHash\obj\x86\Release\CheckHash.pdb
